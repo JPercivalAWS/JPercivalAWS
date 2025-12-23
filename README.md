@@ -7,32 +7,37 @@ I enjoy understanding how things work, communicating clearly, and breaking down 
 ---
 
 ## 🌥️ What I'm Currently Working On
-- Strengthening my AWS fundamentals (IAM, S3, EC2, VPC, CloudFront, Lambda basics)  
-- Learning how to design clear and understandable cloud architectures  
-- Building small practical projects to grow my portfolio  
-- Developing Linux and networking basics  
-- Preparing for the AWS Solutions Architect – Associate certification  
+
+- Strengthening my AWS fundamentals (IAM, S3, EC2, VPC, CloudFront, Lambda basics)
+- Learning how to design clear and understandable cloud architectures
+- Building small practical projects to grow my portfolio
+- Developing Linux and networking basics
+- Preparing for the AWS Solutions Architect – Associate certification
 
 ---
 
 ## 📘 Certifications
-- **AWS Certified Cloud Practitioner (2025)**  
-- **AWS Solutions Architect – Associate (In progress, target Feb 2026)**  
+
+- **AWS Certified Cloud Practitioner (2025)**
+- **AWS Solutions Architect – Associate (In progress, target Feb 2026)**
 
 ---
 
 ## 🏗️ What You'll Find Here (Soon)
+
 I’m gradually building a collection of:
-- Architecture diagrams  
-- Small AWS projects  
-- Notes from my learning journey  
-- Experiments with serverless, networking, and cost-effective setups  
+
+- Architecture diagrams
+- Small AWS projects
+- Notes from my learning journey
+- Experiments with serverless, networking, and cost-effective setups
 
 Everything is added as I learn it; nothing rushed, nothing fake. Just real progress over time.
 
 ---
 
 ## 🎯 My Current Focus
+
 - Complete the SAA exam
 - Build meaningful cloud architecture projects
 - Strengthen troubleshooting skills
@@ -42,7 +47,10 @@ Everything is added as I learn it; nothing rushed, nothing fake. Just real progr
 ---
 
 ## 🤝 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/josh-percival-7722982a0  
-- **Email:** JPercivalAWS@outlook.com 
+
+- **LinkedIn:** https://www.linkedin.com/in/josh-percival-7722982a0
+- **Email:** JPercivalAWS@outlook.com
 
 Thanks for stopping by. If you're working in cloud or architecture, feel free to connect or share advice!
+
+<!-- Profile last updated: 23/12/2025 -->
